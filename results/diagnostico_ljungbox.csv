@@ -1,0 +1,5 @@
+Modelo,lag,lb_stat,lb_pvalue,interpretacion_5pct
+SARIMA,7,6.850485192986471,0.4446117111196446,Sin evidencia de autocorrelación residual
+SARIMA,14,20.714705934472953,0.1091701312987466,Sin evidencia de autocorrelación residual
+XGBoost,7,4.143041323031131,0.763162366934082,Sin evidencia de autocorrelación residual
+XGBoost,14,16.194610176783723,0.3016347133099476,Sin evidencia de autocorrelación residual
