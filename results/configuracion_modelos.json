@@ -1,0 +1,25 @@
+{
+  "horizonte_test_dias": 60,
+  "sarima": {
+    "order": [
+      0,
+      1,
+      1
+    ],
+    "seasonal_order": [
+      1,
+      1,
+      1,
+      7
+    ],
+    "aic": 7788.334118733119
+  },
+  "xgboost": {
+    "learning_rate": 0.03,
+    "max_depth": 3,
+    "n_estimators": 200,
+    "subsample": 0.8
+  },
+  "variable_objetivo": "llegadas diarias de huéspedes",
+  "frecuencia": "D"
+}

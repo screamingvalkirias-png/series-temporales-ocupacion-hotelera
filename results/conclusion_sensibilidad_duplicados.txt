@@ -1,0 +1,17 @@
+ANÁLISIS COMPLEMENTARIO DE DUPLICADOS
+
+Se detectaron 31,994 duplicados adicionales,
+equivalentes al 26.80% de las filas originales.
+La eliminación exploratoria de estas filas redujo el total de huéspedes
+en 14.23% y la media diaria en
+14.23%.
+
+La correlación de Pearson entre la serie oficial y la serie alternativa
+fue 0.9065, mientras que la correlación de Spearman
+fue 0.9047. La correlación es alta, aunque existen diferencias temporales que deben mencionarse.
+
+Debido a la ausencia de un identificador único de reserva, no puede
+determinarse de manera confiable si todas las coincidencias son errores.
+Por este motivo, la serie con duplicados se mantiene como serie oficial.
+La versión sin duplicados se presenta únicamente como análisis de
+sensibilidad y no modifica los modelos ni las métricas principales.
